@@ -1,0 +1,8 @@
+#ifndef EXERCICIOS_FUNCOES_E_MACROS_VOLUMECUBE_H
+#define EXERCICIOS_FUNCOES_E_MACROS_VOLUMECUBE_H
+
+#include <math.h>
+
+#define volumeCube(sideLen) (pow(sideLen, 3))
+
+#endif //EXERCICIOS_FUNCOES_E_MACROS_VOLUMECUBE_H
