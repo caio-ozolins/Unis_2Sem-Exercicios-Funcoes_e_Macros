@@ -1,0 +1,8 @@
+#ifndef EXERCICIOS_FUNCOES_E_MACROS_AREACIRCLE_H
+#define EXERCICIOS_FUNCOES_E_MACROS_AREACIRCLE_H
+
+#include <math.h>
+
+#define areaCircle(radius) (pow(radius, 2)*M_PI)
+
+#endif //EXERCICIOS_FUNCOES_E_MACROS_AREACIRCLE_H
